@@ -1,3 +1,10 @@
+
+THE FIVE TAGS ARE 
+OUTLINE WIDTH, 
+OUTLINE STYLE (2, DOTTED AND DOUBLE), 
+OUTLINE COLOR (2, RED AND GREEN), 
+AND OUTLINE OFFSET
+
 #Header{
    text-align: center;
    width: 500px;
@@ -70,6 +77,3 @@ a{
   color: white; font-weight: bold; font-size: 24px;
 }
 
-{
-THE FIVE TAGS ARE OUTLINE WIDTH, OUTLINE STYLE (2, DOTTED AND DOUBLE), OUTLINE COLOR (2, RED AND GREEN), AND OUTLINE OFFSET
-}
